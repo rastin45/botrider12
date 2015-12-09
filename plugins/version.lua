@@ -2,9 +2,9 @@ do
 
 function run(msg, matches)
   return 'Telegram Bot '.. VERSION .. [[ 
-  Checkout http://git.io/vO30o
+  Checkout http://github.com/rastin45/botrider12.git
   GNU GPL v2 license.
-  @silenceangel for more info.]]
+  @rastin44 for more info.]]
 end
 
 return {
